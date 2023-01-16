@@ -1,6 +1,6 @@
 _G.Enabled = true
 --local data = readfile("nframes/owl.txt")
-local data = game:HttpGet("https://raw.githubusercontent.com/cheezybaconmushroom/yayyyyy/main/kittehloop.txt?token=GHSAT0AAAAAAB5RKIC23AM26FBYLUSWRSIMY6FJFEQ")
+local data = game:HttpGet("https://raw.githubusercontent.com/cheezybaconmushroom/yayyyyy/main/kittehloop.txt")
 function update(text)
     local args = {
         [1] = "Update",
