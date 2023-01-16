@@ -1,6 +1,6 @@
 _G.Enabled = true
 --local data = readfile("nframes/owl.txt")
-local data = game:HttpGet("https://raw.githubusercontent.com/cheezybaconmushroom/yayyyyy/main/kitteh.txt?token=GHSAT0AAAAAAB5RKIC35J6KJFNFATBRA6YGY6FH54Q") -- prerendered amongus video
+local data = game:HttpGet("https://raw.githubusercontent.com/cheezybaconmushroom/yayyyyy/main/kitteh.txt?token=GHSAT0AAAAAAB5RKIC3QW77FRZEL6MEFTTUY6FIHDA") -- prerendered amongus video
 
 function update(text)
     local args = {
